@@ -34,7 +34,7 @@ Future changes to the repository structure or content may cause such links to br
 | **mikrotik** | **ip_2**   | https://honeysec.eu/lists/mikrotik/ip_2 |
 | **mikrotik** | **ip_5**   | https://honeysec.eu/lists/mikrotik/ip_5 |
 
-## Taxonomy
+## Categories
 
 | Dataset   | Description |
 |-----------|-------------|
