@@ -130,6 +130,7 @@
 /ip/firewall/address-list/add address=103.250.10.21/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=103.253.21.190/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=103.29.69.96/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=103.29.70.204/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=103.30.41.231/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=103.31.39.143/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=103.48.84.29/32 list=honeysec disabled=no dynamic=no comment=HoneySec
@@ -310,6 +311,7 @@
 /ip/firewall/address-list/add address=119.1.156.50/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=119.136.206.210/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=119.167.206.194/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=119.185.153.220/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=119.188.168.53/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=119.209.12.20/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=119.246.15.94/32 list=honeysec disabled=no dynamic=no comment=HoneySec
@@ -482,6 +484,7 @@
 /ip/firewall/address-list/add address=139.59.34.245/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=139.59.4.2/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=139.59.61.113/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=139.59.64.244/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=139.59.76.168/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=14.103.104.36/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=14.103.107.214/32 list=honeysec disabled=no dynamic=no comment=HoneySec
@@ -703,6 +706,7 @@
 /ip/firewall/address-list/add address=159.65.149.244/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=159.65.185.221/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=159.65.195.213/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=159.65.201.168/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=159.65.205.46/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=159.65.248.137/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=159.65.53.56/32 list=honeysec disabled=no dynamic=no comment=HoneySec
@@ -793,6 +797,7 @@
 /ip/firewall/address-list/add address=170.64.144.70/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=170.64.146.56/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=170.64.147.177/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=170.64.148.51/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=170.64.167.72/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=170.64.171.45/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=170.64.178.148/32 list=honeysec disabled=no dynamic=no comment=HoneySec
@@ -800,7 +805,9 @@
 /ip/firewall/address-list/add address=170.64.184.161/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=170.64.188.41/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=170.64.212.95/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=170.64.214.90/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=170.64.226.128/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=170.64.229.64/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=171.231.177.83/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=171.231.179.176/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=171.231.180.184/32 list=honeysec disabled=no dynamic=no comment=HoneySec
@@ -1481,6 +1488,7 @@
 /ip/firewall/address-list/add address=66.240.192.82/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=66.55.75.78/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=67.207.83.103/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=68.183.10.149/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=68.183.11.208/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=68.183.236.1/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=68.183.4.192/32 list=honeysec disabled=no dynamic=no comment=HoneySec
@@ -1489,6 +1497,7 @@
 /ip/firewall/address-list/add address=69.156.93.100/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=69.74.29.21/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=70.166.13.196/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=70.166.167.49/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=70.54.182.130/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=71.29.23.109/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=71.70.164.48/32 list=honeysec disabled=no dynamic=no comment=HoneySec
@@ -1574,6 +1583,7 @@
 /ip/firewall/address-list/add address=93.118.101.49/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=93.123.109.214/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=94.102.4.12/32 list=honeysec disabled=no dynamic=no comment=HoneySec
+/ip/firewall/address-list/add address=94.102.49.155/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=94.177.147.110/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=94.180.217.138/32 list=honeysec disabled=no dynamic=no comment=HoneySec
 /ip/firewall/address-list/add address=94.181.229.254/32 list=honeysec disabled=no dynamic=no comment=HoneySec
